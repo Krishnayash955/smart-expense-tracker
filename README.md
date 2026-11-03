@@ -10,7 +10,7 @@ A full-stack personal finance app: track income and expenses, set budgets, view 
 | Backend | Python 3.12, FastAPI, SQLAlchemy, Pydantic, Alembic, JWT |
 | Database | Neon serverless PostgreSQL |
 | CI/CD | Git, GitHub, GitHub Actions |
-| Hosting | Vercel (frontend), Render (backend), Neon (database) |
+| Hosting | Vercel (frontend), Render (backend), Neon (database) 
 
 ## Repository layout
 
